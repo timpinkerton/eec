@@ -1,18 +1,17 @@
 ---
 enable: true
-topTitle: About
+topTitle: The Challenge
 title: >
-  ## About me
+  ## The Challenge
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Who can participate?
+
+  Anyone who has lived in the same residence for at least 1 year
 content: >
-  ### I design and build ultimate things.
+  ### Who can participate?
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  Anyone who has lived in the same residence for at least 1 year
+  
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
